@@ -1,0 +1,16 @@
+<?php
+namespace OAuth2_Client;
+
+class Config
+{
+    const AuthorizationURL = '';
+    const AccessTokenURL = '';
+    const AccountDetailsURL = '';
+    const RedirectURL = '';
+
+    const ClientID = '';
+    const ClientSecret = '';
+    const Scope = '';
+}
+
+?>
